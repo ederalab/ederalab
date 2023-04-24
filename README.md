@@ -5,7 +5,7 @@
 
 🍷 After a very long period working as a graphic designer and social media marketing for a big wine company in Italy, I started again studying development with [TomorrowDevs](https://tomorrowdevs.com/) and I fell in love with Python.<br>I developed a full stack project, a quiz site in different languages, with Django and I'm currently managing contents and new features.<br>
 
-🌱 I'm currently developing an e-commerce website for a project called Barru, project that I created from scratch a couple of years ago, of which I created all contents and graphics.
+🌱 I'm currently developing an e-commerce website for a project called [Barru](https://www.barru.it/), project that I created from scratch a couple of years ago, of which I created all contents and graphics (at the moment it is developed with Shopify).
 
 🤓 I just joined the mentor team at TomorrowDevs.
 
