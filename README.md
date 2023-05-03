@@ -1,5 +1,5 @@
 ### 👩🏼‍💻 About Me:
-👋 I'm Valentina, born in Rome in 1986, currently living near Alba, Piedmont, surrounded by amazing vineyards!<br>
+👋 I'm Valentina, born in Rome, currently living near Alba, Piedmont, surrounded by amazing vineyards!<br>
 
 📚 I graduated in Graphic & Virtual Design, then I took a specialization course in web design and web development, in particular I was very passionate about PHP at the time.<br>
 
